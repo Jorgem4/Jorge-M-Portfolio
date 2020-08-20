@@ -1,3 +1,8 @@
 a {
   color: white;
 }
+
+.masthead-avatar{
+  padding-top: calc(0.5rem + 96px);
+  border-radius: 0.5rem;
+}
